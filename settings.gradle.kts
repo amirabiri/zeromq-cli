@@ -1,0 +1,2 @@
+rootProject.name = "zeromq-cli"
+
